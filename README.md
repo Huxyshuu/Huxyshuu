@@ -3,5 +3,10 @@
 
 ### Hi there 👋
 Get to know me and my projects better on my portfolio website [www.hugotamm.com](www.hugotamm.com) or by visiting the repositories below:
-- [KokkiKawaii](https://github.com/Huxyshuu/reclib)
-- [CryptoStorage](https://github.com/Huxyshuu/cryptostorage)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huxyshuu&repo=reclib)](https://github.com/huxyshuu/reclib)
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huxyshuu&repo=cryptostorage)](https://github.com/huxyshuu/cryptostorage)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huxyshuu&layout=compact) -->
+
