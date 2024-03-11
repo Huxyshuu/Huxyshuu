@@ -7,13 +7,13 @@ Get to know me and my projects better on my portfolio website [www.hugotamm.com]
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huxyshuu&layout=compact) -->
 <br><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huxyshuu&repo=KokkiKawaii)](https://github.com/huxyshuu/KokkiKawaii)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huxyshuu&repo=KokkiKawaii&show_owner=true)](https://github.com/huxyshuu/KokkiKawaii)
 <a href="https://github.com/huxyshuu/KokkiKawaii">
      <img src="https://imgur.com/z8j7S8u.png" align="top"
      alt="Logo of kokkikawaii" width="200" height="120">
 </a>
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huxyshuu&repo=cryptostorage)](https://github.com/huxyshuu/cryptostorage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huxyshuu&repo=cryptostorage&show_owner=true)](https://github.com/huxyshuu/cryptostorage)
 <a href="https://github.com/huxyshuu/cryptostorage">
      <img src="https://i.imgur.com/M3Fjazy.png" align="top"
      alt="Logo of cryptostorage" width="200" height="120">
