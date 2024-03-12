@@ -1,4 +1,4 @@
-<a href="https://www.hugotamm.com/">
+<a href="https://www.hugotamm.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://i.imgur.com/WspU4IB.png" align="right"
      alt="Logo of Hugo Tamm" width="275" height="160">
 </a>
