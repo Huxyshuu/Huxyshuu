@@ -1,5 +1,7 @@
+<a href="www.hugotamm.com">
 <img src="https://i.imgur.com/WspU4IB.png" align="right"
      alt="Logo of Hugo Tamm" width="275" height="160">
+</a>
 
 ### Hi there 👋
 Get to know me and my projects better on my portfolio website [www.hugotamm.com](www.hugotamm.com) or by visiting the repositories below 👇😎
